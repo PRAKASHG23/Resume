@@ -14,37 +14,37 @@ const SkillsSection = () => {
     {
       title: "Web Development",
       icon: Globe,
-      skills: ["HTML5", "CSS3", "JavaScript", "React", "TypeScript", "Tailwind CSS"],
+      skills: ["HTML5", "CSS", "JavaScript", "React",],
       gradient: "bg-gradient"
     },
     {
       title: "Programming",
       icon: Code2,
-      skills: ["Python", "JavaScript", "TypeScript", "SQL", "Git"],
+      skills: ["Python", "C++"],
       gradient: "bg-gradient-secondary"
     },
     {
       title: "Database Management",
       icon: Database,
-      skills: ["MySQL", "DBMS", "Database Design", "Query Optimization"],
+      skills: ["MySQL", "MangoDB"],
       gradient: "bg-gradient"
     },
     {
       title: "AI & ML Tools",
       icon: Brain,
-      skills: ["Gen AI Tools", "Machine Learning", "Data Analysis", "AI Frameworks"],
+      skills: ["NumPy", "Pandas", "Matplotlib"],
       gradient: "bg-gradient-secondary"
     },
     {
       title: "Backend Technologies",
       icon: Server,
-      skills: ["REST APIs", "Server Management", "Cloud Services", "DevOps"],
+      skills: ["REST APIs", "Node.js", "Express"],
       gradient: "bg-gradient"
     },
     {
       title: "Core Computer Science",
       icon: Cpu,
-      skills: ["Data Structures", "Algorithms", "System Design", "Software Engineering"],
+      skills: ["Data Structures"],
       gradient: "bg-gradient-secondary"
     }
   ];
