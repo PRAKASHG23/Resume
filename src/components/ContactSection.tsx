@@ -37,7 +37,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="font-medium">Email</p>
-                      <p className="text-muted-foreground">prakash.gupta@example.com</p>
+                      <p className="text-muted-foreground">pg793882@gmail.com</p>
                     </div>
                   </div>
                 </CardContent>
@@ -51,7 +51,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="font-medium">Phone</p>
-                      <p className="text-muted-foreground">+91 XXXXX XXXXX</p>
+                      <p className="text-muted-foreground">+91 8799151691</p>
                     </div>
                   </div>
                 </CardContent>

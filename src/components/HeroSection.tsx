@@ -25,13 +25,17 @@ const HeroSection = () => {
               </p>
             </div>
 
+
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center mb-12">
               <Button size="lg" className="bg-gradient text-white hover:opacity-90 transition-smooth glow">
                 View My Work
               </Button>
-              <Button variant="outline" size="lg" className="border-primary text-primary hover:bg-primary/10">
+              <a href="Prakash resume.pdf" download>
+                <Button variant="outline" size="lg" className="border-primary text-primary hover:bg-primary/10">
                 Download Resume
               </Button>
+              </a>
+              
             </div>
 
             <div className="flex gap-6 justify-center lg:justify-start mb-16">
